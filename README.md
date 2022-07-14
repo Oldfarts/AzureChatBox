@@ -1,5 +1,4 @@
-# AzureDemo
-AzureDemoWithJavaForJenkins
+# AzureDemos
 
 Migration project for Access 97 DB to Azure cloud (Sql server)
 1.) Downloand http://www.trisunsoft.com/access-password-recovery/ to clear the password from Access 97 DB
